@@ -1,0 +1,1 @@
+A list in Python is a built-in data type used to store multiple items in a single variable. Lists are ordered, mutable, and allow duplicate values. They can hold elements of different data types, such as integers, strings, floats, or even other lists.
